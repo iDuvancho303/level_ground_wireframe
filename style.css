@@ -11,7 +11,7 @@ body {
 }
 
 section {
-    float: ;
+    float: left;
     width: 1440px;
     height: 80vh;
     padding-top: 20px;
