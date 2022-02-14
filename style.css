@@ -4,11 +4,6 @@
     box-sizing: border-box;
 }
 
-*/
-
-body {
-    
-}
 
 section {
     float: left;
@@ -64,7 +59,7 @@ section h3 {
 section h1 {
     clear: left;
     text-align: center;
-    font-size: 40px;
+    font-size: 55px;
     color: #fff;
     text-transform: uppercase;
     margin-top: 100px;
@@ -73,8 +68,19 @@ section h1 {
 
 section p {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 20px;
     color: #fff;
+    font-size: 30px;
+}
 
+#div1 {
+    float: none;
+    margin-top: 200px;
+}
+
+#div1 h2 {
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
 }
 
