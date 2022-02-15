@@ -11,8 +11,6 @@ section {
     height: 50vh;
     padding-top: 20px;
     background-color: #66768a;
-    position: relative;
-
 }
 
 .button1 {
@@ -76,15 +74,22 @@ section p {
 }
 
 div {
-    position: absolute;
-    bottom: 0;
     clear: both;
-    margin-bottom: 300px;
+    
+    
 }
 
-#div1 h2 {
+.div1 h2 {
+    padding-top: 150px;
     text-align: center;
     font-size: 35px;
     text-transform: uppercase;
+}
+
+.div1 p {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 18px;
+    margin: 0 400px;
 }
 
