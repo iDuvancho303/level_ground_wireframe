@@ -96,6 +96,20 @@ div {
 
 .boxes{
     background-color: rgba(219,223,226,255);
+    height: 1000px;
+    width: 100%;
+    border: 3px solid red;
+    padding: 200px;
+}
+
+.box1 {
+    width: 50%;
+    float: left;
+}
+
+.box2 {
+    width: 50%;
+    float: left;
 }
 
 .grey-boxes {
