@@ -88,8 +88,20 @@ div {
 
 .div1 p {
     padding-top: 20px;
+    padding-bottom: 50px;
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
     margin: 0 400px;
+}
+
+.boxes{
+    background-color: rgba(219,223,226,255);
+}
+
+.grey-boxes {
+    background-color: #66768a;
+    width: 400px;
+    height: 200px;
+    border: 1px solid green;
 }
 
