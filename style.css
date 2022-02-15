@@ -103,19 +103,20 @@ div {
 }
 
 .box1 {
-    width: 50%;
     float: left;
+    width: 50%;
 }
 
 .box2 {
-    width: 50%;
     float: left;
+    width: 50%;
+    
 }
 
 .grey-boxes {
     background-color: #66768a;
     width: 400px;
     height: 200px;
-    border: 1px solid green;
+    border: 5px solid green;
 }
 
