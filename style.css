@@ -130,11 +130,14 @@ section p {
     font-size: 23px;
     text-transform: uppercase; 
     text-align: center;  
-    padding-left: 20px; 
     padding-top: 30px;
 }
 
 .box1 p, .box2 p {
     padding-top: 50px;
+    text-align: center;
 }
+
+
+
 
